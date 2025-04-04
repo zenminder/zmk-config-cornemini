@@ -30,5 +30,4 @@ include:
     shield: settings_reset
   - board: nice_nano_v2
     shield: cygnus_central_dongle dongle_display
-    cmake-args: -DCONFIG_ZMK_USB_LOGGING=y
     artifact-name: cygnus_central_dongle_with_logging
